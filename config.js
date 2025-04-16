@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
     // ===== BOT CORE SETTINGS =====
-    SESSION_ID: process.env.SESSION_ID || "SUBZERO-MD~3rhjkbrL#cl1ur_QNg0BV53Ll2wiXqYNU7gypQv_S65M4e02nhAI",  // Your bot's session ID (keep it secure)
+    SESSION_ID: process.env.SESSION_ID || "SUBZERO-MD~ggACQAqQ#04ag-bHgtcjto5LXv-IpvjaDsmpBMFlHOf5kdsVMIAk",  // Your bot's session ID (keep it secure)
     PREFIX: process.env.PREFIX || ".",         // Command prefix (e.g., "., / ! * - +")
     BOT_NAME: process.env.BOT_NAME || "ROYES_MD",  // Bot's display name
     MODE: process.env.MODE || "private",        // Bot mode: public/private/group/inbox
